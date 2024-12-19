@@ -3,3 +3,7 @@ https://www.google.com/search?q=sailboat+leaving+port https://www.dreamstime.com
 
 # sch:
 https://www.google.com/search?q=stockphoto
+
+# Favorite:
+https://www.imagella.com/hu/blogs/news/the-allure-of-pirate-ships-a-journey-through-history-and-art
+https://www.dreamstime.com/stock-photo-pirate-ship-leaving-harbor-milky-way-sunset-long-campaign-against-loyal-marines-oceans-image89399585
